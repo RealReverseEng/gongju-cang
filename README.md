@@ -5,3 +5,8 @@
 
 🌐· 汉化版[ghidra](https://github.com/TC999/ghidra-chinese)
 
+### IDA Pro
+
+
+https://t.me/c/2807155870/1404
+
